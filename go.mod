@@ -1,8 +1,6 @@
 module github.com/gen2brain/go-fitz
 
-go 1.23.0
-
-toolchain go1.24.3
+go 1.26.2
 
 require (
 	github.com/ebitengine/purego v0.8.4
